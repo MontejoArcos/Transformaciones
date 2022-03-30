@@ -1,0 +1,8 @@
+﻿  Trans.cpp
+c:\users\lázaro\source\repos\transformaciones\transformaciones\trans.cpp(47): warning C4101: 'zExtent': unreferenced local variable
+c:\users\lázaro\source\repos\transformaciones\transformaciones\trans.cpp(48): warning C4101: 'loopX': unreferenced local variable
+c:\users\lázaro\source\repos\transformaciones\transformaciones\trans.cpp(48): warning C4101: 'loopZ': unreferenced local variable
+c:\users\lázaro\source\repos\transformaciones\transformaciones\trans.cpp(47): warning C4101: 'zLocal': unreferenced local variable
+c:\users\lázaro\source\repos\transformaciones\transformaciones\trans.cpp(47): warning C4101: 'xLocal': unreferenced local variable
+c:\users\lázaro\source\repos\transformaciones\transformaciones\trans.cpp(47): warning C4101: 'xExtent': unreferenced local variable
+  Transformaciones.vcxproj -> C:\Users\LÁZARO\source\repos\Transformaciones\Debug\Transformaciones.exe
